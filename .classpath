@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="Nishant_Sahu/CoreProject/src"/>
 	<classpathentry kind="src" path="Varshita/Training/src"/>
 	<classpathentry kind="src" path="DeviPrasad/src"/>
+	<classpathentry kind="src" path="Krishna/src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
